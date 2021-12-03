@@ -84,7 +84,7 @@
 | Jira | https://jira.daocloud.io/secure/RapidBoard.jspa?rapidView=79&projectKey=DOS&view=detail&selectedIssue=DOS-72 |Sprint 工作任务体系 |
 | OKR | https://dwiki.daocloud.io/display/NDC/NDX+OKR | wiki 上 OKR 主页 |
 | 开源/AD 空间主页 | https://dwiki.daocloud.io/pages/viewpage.action?pageId=76295473 | 团队介绍和知识库 |
-| 团队介绍 | https://dwiki.daocloud.io/pages/viewpage.action?pageId=76295507 | 团队船员的简介 |
+| 团队介绍 | https://dwiki.daocloud.io/pages/viewpage.action?pageId=76295507 | 团队船员的简介 |
 | Oncall |  https://dwiki.daocloud.io/pages/viewpage.action?pageId=13869769 | DCE OnCall 轮值队列 |
 | gitbook 知识库 | https://ericwvi.gitbook.io/cloud-native-network/ | 团队gitbook知识库（团队自己维护，需要大家持续更新维护的知识库） |
 | 周报链接 | https://dwiki.daocloud.io/pages/viewpage.action?pageId=95579048 | 默认链接 |
@@ -102,8 +102,12 @@
 
 * 会议和分享：上面所述的<a href="#chapter3">会议</a>都以腾讯会议或者微信的方式（站立会）开展，每个分公司需要提前找到会议室，保证网络畅通和避免回音，有特殊情况及时在群里沟通。
 
-* 沟通：工作中，我们可以在企业微信，sclak，邮件，github等多渠道进行工作上的交流。刚入职的船员遇到什么工作的问题，可以多在群里提出自己疑问，如果有技术难题需要多人讨论的情况，也可以随时约一个远程会议。如果有自己的想法和感兴趣文章也可以及时的分享出来。让大家更好的了解到自己工作状态，促进工作效率。
+* 沟通：工作中，我们可以在企业微信，sclak，邮件，github等多渠道进行工作上的交流。刚入职的船员遇到什么工作的问题，可以多在群里提出自己疑问，如果有技术难题需要多人讨论的情况，也可以随时约一个远程会议。如果有自己的想法和感兴趣文章也可以及时的分享出来。让大家更好的了解到自己工作状态，促进工作效率。
 
 ## 转正答辩
 
 入职一般在3～6个月，HR 会通知参加转正答辩，提前准备好答辩 PPT，内容重在展示自己的成果和工作总结，开源贡献，技术分享，发布公众号文章都可以作为自己强有力的成果。在日常工作中可以多积累一些贡献，做好 OKR 的总结，转正答辩将是非常轻松的事情。
+
+## 正式加入
+
+在正式加入之前，[这里](https://github.com/DaoCloud-OpenSource/welcome/issues/1)准备了 `小试牛刀` 的任务，顺利完成任务即可正式加入开源团队。
