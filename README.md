@@ -12,7 +12,7 @@
 
 * 团队：浏览[团队介绍](https://dwiki.daocloud.io/pages/viewpage.action?pageId=76295507)和[开源/AD 空间主页](https://dwiki.daocloud.io/pages/viewpage.action?pageId=76295473)可以让你快速了解团队详情。
 
-## 日常工作·
+## 日常工作
 
  ### <a id="chapter1">Jira</a>
 
