@@ -46,7 +46,7 @@
 
 ### 周报
 
-每周结束后会在 wiki 简单总结，周报实行部门轮岗制，当值船员在周五下午在群里通知并附加 wiki [链接](https://dwiki.daocloud.io/pages/viewpage.action?pageId=95579048)，下周一整理上报。建议在周五的时候写周报，因为没有公司的网络环境，需要[配置 VPN](https://dwiki.daocloud.io/pages/viewpage.action?pageId=41582354)。
+每周结束后会在 wiki 简单总结，周报实行部门轮岗制，当值船员在周五下午在群里通知并附加 wiki [链接](https://dwiki.daocloud.io/pages/viewpage.action?pageId=95579048)，下周一整理上报。建议在周五的时候写周报，因为没有公司的网络环境，需要[配置 VPN](https://dwiki.daocloud.io/pages/viewpage.action?pageId=41582354)。
 
 ### <a id="chapter3">会议</a>
 
