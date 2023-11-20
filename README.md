@@ -8,7 +8,7 @@
 
 * [OKR](https://wiki.mbalib.com/wiki/OKR)：(Objectives and Key Results)，简称 OKR，翻译成中文叫“目标与关键结果”，OKR 就是一种讲述如何执行目标的管理方法。请预览 [OKR培训脑图](https://dwiki.daocloud.io/pages/viewpage.action?pageId=87835516)和[部门 OKR 主页](https://dwiki.daocloud.io/display/NDC/NDX+OKR)，下面将介绍怎么<a href="#chapter2">制定</a> OKR。
 
-* [k8s开发Handbook](https://github.com/DaoCloud-OpenSource/handbook/blob/main/KubernetesDeveloperHandbook.md)：介绍 `kubernetes` 社区和怎么在社区工作的开发手册，帮助想加入社区的船员快速入门，必须掌握的内容。
+* [k8s开发Handbook](https://github.com/DaoCloud-OpenSource/docs/blob/main/kubernetes/KubernetesDeveloperHandbook.md)：介绍 `kubernetes` 社区和怎么在社区工作的开发手册，帮助想加入社区的船员快速入门，必须掌握的内容。
 
 * 团队：浏览[团队介绍](https://dwiki.daocloud.io/pages/viewpage.action?pageId=76295507)和[开源/AD 空间主页](https://dwiki.daocloud.io/pages/viewpage.action?pageId=76295473)可以让你快速了解团队详情。
 
@@ -80,7 +80,7 @@
 
 | 文档 | 链接 | 备注 |
 | --- | --- | --- |
-| Handbook | https://github.com/DaoCloud-OpenSource/handbook/blob/main/KubernetesDeveloperHandbook.md | k8s开源社区开发指南 |
+| Handbook | https://github.com/DaoCloud-OpenSource/docs/blob/main/kubernetes/KubernetesDeveloperHandbook.md | k8s开源社区开发指南 |
 | Jira | https://jira.daocloud.io/secure/RapidBoard.jspa?rapidView=79&projectKey=DOS&view=detail&selectedIssue=DOS-72 |Sprint 工作任务体系 |
 | OKR | https://dwiki.daocloud.io/display/NDC/NDX+OKR | wiki 上 OKR 主页 |
 | 开源/AD 空间主页 | https://dwiki.daocloud.io/pages/viewpage.action?pageId=76295473 | 团队介绍和知识库 |
