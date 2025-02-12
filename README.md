@@ -14,7 +14,7 @@
 
 ## 日常工作
 
- ### <a id="chapter1">Jira</a>
+ ### <a id="chapter1">Jira</a> （已经切换到飞书）
 
 [Jira](https://www.atlassian.com/zh/software/jira/guides/getting-started/overview) 是一套敏捷的工作管理解决方案。每两个星期为一个周期划分 Sprint，在 Sprint 开始前，将预计这个 Sprint 要完成的工作，在 Jira 上以故事的形式创建，创建的时候自己评估指定故事点（工作量）。每个 Sprint 以8个故事点为平衡点。不能完成的任务可以纳入下一个 Sprint 中。在 Sprint 开始前会进行评估，结束时进行总结分析。任务分为4个阶段：
  
@@ -25,7 +25,7 @@
 
 > 及时更新任务状态，任务过程中的细节可以适当使用英文或者中文评论，方便站立会同步。
 
-### <a id="chapter2">OKR</a>
+### <a id="chapter2">OKR</a> （目前使用双周Scrum和月里程碑结合）
 
 每个季度前会制定部门，团队及个人的 OKR，个人与团队的 OKR 应该保持一致的方向。OKR 的核心:
 
